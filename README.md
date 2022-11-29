@@ -1,4 +1,4 @@
-# workshop-python-flask
+# Workshop python flask
 
 ```
 pip install -r requirements.txt
